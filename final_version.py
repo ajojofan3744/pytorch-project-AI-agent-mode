@@ -1,7 +1,7 @@
 
 import threading
 import time
-
+#geiugrigzhgeeo_uizrg
 import cv2
 import customtkinter as ctk
 import torch
